@@ -37,10 +37,10 @@ This shows that ive created a databse for osTicket. the HeidiSQL interface, is a
 <br />
 
 <p>
-<img src="https://imgur.com/ygou2oA" height="80%" width="80%">
+<img src="https://i.imgur.com/ygou2oA.png" height="80%" width="80%">
 </p>
 <p>
-This just shows me setting up a name to actually process and run osTicket on the SQl database.
+This demonstrates how I've configured the database to effectively manage and operate osTicket using SQL.
 </p>
 <br />
 
