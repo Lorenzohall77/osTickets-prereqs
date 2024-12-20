@@ -28,10 +28,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/krcWPIM.png" height="80%" width="80%" >
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This shows that ive created the HeidiSQL interface, a database management tool, connected to a local MySQL database named osticket used by the osTicket support ticket system. The database consists of various tables like ost_attachment, ost_canned_response, and ost_department, which store attachments, predefined responses, and department details respectively. The main panel displays these tables with information such as row count, size, creation, and update timestamps. A SQL query window at the bottom shows recently executed queries, such as retrieving the status of tables within the osticket database. The application’s toolbar offers functions for searching, editing, and querying the database. This setup is typical for managing and maintaining data structures in a support ticketing system environment.
 </p>
 <br />
 
